@@ -1,0 +1,38 @@
+
+mkdir ts-hello == create hello folder
+cd ts-hello ----change  directory
+code main.ts == create and open that file
+ls = chcecks files in the dir
+rm-remove file
+
+------typescript------
+
+
+npm install -g typescript =install typescript
+tsc main.ts ===  compiles
+tsc main.ts -w === watches or compiles automaticaly when ever we save the ts file
+tsc -v === check version of typescript
+node main.js === runs the file in console.log terminal
+
+
+
+---------------------reasons to use typescript----------------
+
+-oop in js
+-class based 
+-inheritance 
+-modifiers
+
+--------6 mins started code------
+
+--- modules {
+    export
+    import {point} from './point'
+}
+types {
+    functions
+    object
+    variables
+    class
+}
+
