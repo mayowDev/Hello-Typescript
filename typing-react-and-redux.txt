@@ -1,0 +1,25 @@
+
+= TypeScript: Seeing Past the Hype by coding tech youtube==== 
+
+
+
+* dom function in typescript 
+
+we beed to pass the exact type of the dom 
+
+example:
+
+const a:HTMLCollectionOf<HTMLAnchorElement> = document.getElementByTagName("a");
+const div:HTMLCollectionOf<HTMLDivElement> = document.getElementByTagName("div");
+const p:HTMLCollectionOf<HTMLParagraphElement> = document.getElementByTagName("p");
+
+Blog post : bit.ly/ts-hoc  = typing HOC
+bit.ly/db-lodash
+
+15mins
+
+typescript helps to upgrade frameworks and libararys
+
+check definetly type on github
+
+there are derivates types like enume is derivitave from string 
